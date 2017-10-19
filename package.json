@@ -1,0 +1,30 @@
+{
+  "name": "jokecamp-other-mapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node mapRatings.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebDataIntegrationProject/jokecamp-other-mapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebDataIntegrationProject/jokecamp-other-mapper/issues"
+  },
+  "homepage": "https://github.com/WebDataIntegrationProject/jokecamp-other-mapper#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "moment": "^2.19.1",
+    "xmlbuilder": "^9.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^4.9.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
